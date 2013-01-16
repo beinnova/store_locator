@@ -5,7 +5,7 @@
  *
  * Plugin URI:http://www.beinnova.it
  *
- * Description:Plugin per la generazione di uno store locator con mappa italiana vettoriale
+ * Description:Plugin per la generazione di uno store locator con mappa italiana vettoriale e toolti jQuery
  *
  * Author:Giorgio Cerruti
  *
