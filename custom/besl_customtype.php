@@ -1,6 +1,8 @@
 <?php
 
-
+/**
+ * Custom type per lo store locator
+ */
   
 
 function besl_register_storelocator(){
